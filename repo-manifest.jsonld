@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/leo/commit/de9a0c2a77dd7a42c1986b1eef18d184a86e294a",
       "git:hexsha": "de9a0c2a77dd7a42c1986b1eef18d184a86e294a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
